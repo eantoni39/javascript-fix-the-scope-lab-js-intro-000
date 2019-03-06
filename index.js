@@ -12,10 +12,12 @@ function yourAnimal() {
 }
 
 function add2(n) {
+const n = 864
+const two = 2
   return n + two
 
   // Feel free to move things around!
-  const two = 2
+  
 }
 
 var funkyFunction = function() {
