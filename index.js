@@ -10,9 +10,10 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
+const n = 864
 
 function add2(n) {
-const n = 864
+
 const two = 2
   return n + two
 
